@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D50BD553-FDF7-F724-2F46-2AA92534EEBF}") = "Alien Invasion", "Assembly-CSharp-firstpass.csproj", "{4845965E-920E-B8C5-C17F-395B71C140A7}"
+EndProject
+Project("{D50BD553-FDF7-F724-2F46-2AA92534EEBF}") = "Alien Invasion", "Assembly-CSharp.csproj", "{6F331AF3-BBB4-EF02-F078-B542561C4E19}"
+EndProject
+Project("{D50BD553-FDF7-F724-2F46-2AA92534EEBF}") = "Alien Invasion", "Assembly-CSharp-Editor.csproj", "{7FE0598D-017A-B40D-8715-2F95BF76B201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4845965E-920E-B8C5-C17F-395B71C140A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4845965E-920E-B8C5-C17F-395B71C140A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4845965E-920E-B8C5-C17F-395B71C140A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4845965E-920E-B8C5-C17F-395B71C140A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F331AF3-BBB4-EF02-F078-B542561C4E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F331AF3-BBB4-EF02-F078-B542561C4E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F331AF3-BBB4-EF02-F078-B542561C4E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F331AF3-BBB4-EF02-F078-B542561C4E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE0598D-017A-B40D-8715-2F95BF76B201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE0598D-017A-B40D-8715-2F95BF76B201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE0598D-017A-B40D-8715-2F95BF76B201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE0598D-017A-B40D-8715-2F95BF76B201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
